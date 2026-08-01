@@ -1,6 +1,6 @@
 # Манифест сборки AMDH-Mine. Генерируется scripts/pack-build.py.
 pack	AMDH-Mine
-version	1.0.0
+version	1.0.2
 minecraft	1.21.1
 neoforge	21.1.244
 
