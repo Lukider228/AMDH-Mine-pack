@@ -1,0 +1,53 @@
+# Манифест сборки AMDH-Mine. Генерируется scripts/pack-build.py.
+pack	AMDH-Mine
+version	1.0.0
+minecraft	1.21.1
+neoforge	21.1.244
+
+mod	BetterF3-11.0.3-NeoForge-1.21.1.jar	59c36a882669399dce2110db42df05e8fe935a2e1194c4bac49abffc3129b2e19373dfe3c4a3d2f8b22f21b1d66ad8cbd653944ce0a71ae05d3d65528d1b7514	sha512	https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar	client
+mod	chat_heads-0.15.3-neoforge-1.21.jar	b05c8edeb6cda61e9aef7a7ae29574bdb487e1589e7b58ac7ac69b2c2c34e021e03c8cb26a43f6af7c2c99efa23586976e11fa9416654de8fab5ecb9a5565f3f	sha512	https://cdn.modrinth.com/data/Wb5oqrBJ/versions/BBw4KFaY/chat_heads-0.15.3-neoforge-1.21.jar	client
+mod	chatanimation-neoforge-1.3.1+mc1.21.jar	8f9d9d9800bb028897333754b7eacb49d64fb41ccb85e308cc38de5c74bbd9572fe12ce2f5751e85432a5d219c88e057ae87d7b2301a6435fc84bbb1921e125a	sha512	https://cdn.modrinth.com/data/DnNYdJsx/versions/wC0uTsko/chatanimation-neoforge-1.3.1%2Bmc1.21.jar	client
+mod	cloth-config-15.0.140-neoforge.jar	aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d	sha512	https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar	both
+mod	entityculling-neoforge-1.10.5-mc1.21.1.jar	0c22502b84b13d8ac6daffe14ac77e7306b5b7a48f5cd9b3950d9e1d60b3786104aa035fbfdb208b1c9a75ad0e356301a774da32edc3f71cb3a53e2d28fd39e6	sha512	https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar	client
+mod	Essential_1-4-1-1_neoforge_1-21-1.jar	bef6c28584632783b204b38bc5d9cb594e5f5b0c59cd3a08c92fc8ebbb5f542cef310717c368149305a29271b4f269eb82dd50ef9ed00cc66f37e6866958fa38	sha512	https://cdn.modrinth.com/data/k2ZPuTBm/versions/NbXyFjGP/Essential_1-4-1-1_neoforge_1-21-1.jar	client
+mod	ferritecore-7.0.3-neoforge.jar	19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417	sha512	https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar	both
+mod	InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar	521296cc7e4fa48e06eb0c00d430968c7b879946db5b02e632cc724672759ac152e11bd9d320bd09f7418edd6fe4ece521a1a2cac49d7f5687519c69a0bcbf12	sha512	https://cdn.modrinth.com/data/O7RBXm3n/versions/vjuNnHLv/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar	client
+mod	InvMove-0.9.3+1.21.1-NeoForge.jar	54daa1d39fc0319354f54c2e75b1261468e2f0d0bf36ec39a03921dbe07010cc07c73a9e3fdf6e803ce7cb66fe1df3c5a9ba209ec615bb8678163e378d4a7aa5	sha512	https://cdn.modrinth.com/data/REfW2AEX/versions/C7ePwvWW/InvMove-0.9.3%2B1.21.1-NeoForge.jar	client
+mod	iris-neoforge-1.8.14-beta.1+mc1.21.1.jar	33fddb430e16222902eac75b8b3d57c381b0f3cc729f3b56c4628df12ca108f23a0b11e2feb167923d6d14d1fc7e8ee1a977ec421b19d1951bdca74c4092b9c5	sha512	https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar	client
+mod	kotlinforforge-5.12.0-all.jar	b8c3942f4d33179edf3f102f3d870b99dd436f8b8236dbbd31aa51b888162c692cfd88927295f24dc8b4375232f4c6c17360c5d6c4823f93cbcd7cf4bdc8bd14	sha512	https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar	both
+mod	lambdynamiclights-4.8.10+1.21.1.jar	2a8ca94cd56e9e5ed046126f4b03edba2965c8fe76210ebc5ca53bb075832274dce1cb438082fbc2aea268f93986ad17b6231afad7c100359a9185bba517c4f9	sha512	https://cdn.modrinth.com/data/yBW8D80W/versions/DZDOX6ps/lambdynamiclights-4.8.10%2B1.21.1.jar	client
+mod	libIPN-neoforge-1.21.1-6.6.3.jar	89383465eb8dfa296e7518dd0e6ddc1a242f4537a3183425f2319c79a3e97843ded0f5e13f86b095f2f09beacd2a1f249f554e0f4e18291209720826031a8b93	sha512	https://cdn.modrinth.com/data/onSQdWhM/versions/BGe4KMlE/libIPN-neoforge-1.21.1-6.6.3.jar	client
+mod	lithium-neoforge-0.15.4+mc1.21.1.jar	2735da2088b88a8bdcd4ad02a2b6fffbfd3925557cefd4fa54b5477dfb9e582ea7f521300c060f57dff1325dd21bff276b7333363ad3371ed6893e3de9eca9cd	sha512	https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar	both
+mod	modernfix-neoforge-5.27.20+mc1.21.1.jar	b1f0d3ac5ada811b8204bc82adc1cab8ff71752da8e97ae381f21be5f778c199ae59108850febc87d1c46757b27ccbb2669f3fc6340c837db450a205ca2d8c9c	sha512	https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar	both
+mod	mru-1.0.31+1.21.1-neoforge.jar	bf0020381a31b63bb1be64d824ce239552be3bf0a75fe0cc53b5146cec948e794055c3b4cb259f0201f10459d7ff434bfd3bf883541e721cb726e2902829da8e	sha512	https://cdn.modrinth.com/data/SNVQ2c0g/versions/W0PkvNtT/mru-1.0.31%2B1.21.1-neoforge.jar	both
+mod	NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar	292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21	sha512	https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar	both
+mod	notenoughanimations-neoforge-1.12.4-mc1.21.1.jar	9d929cf8e0a0ff2c806e007571b10cd9b81cd508826519f55e25f0390149109c7c12605143e4c11b5b5fac749e69de532c1ad00aa6a257e4dd0d3a3a77f2461b	sha512	https://cdn.modrinth.com/data/MPCX6s5C/versions/eYNogep3/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar	client
+mod	Resourcify (1.21.1-neoforge)-1.8.5.jar	29d66b0fe0f896b71e34cd2a9266e39364cf8c03a457b853f4fd4db273e9813aa27d7a22992d0716f981b5299568dfb31211fbb11faa0f221302e970d4db1cc4	sha512	https://cdn.modrinth.com/data/RLzHAoZe/versions/aXRe8UMO/Resourcify %281.21.1-neoforge%29-1.8.5.jar	client
+mod	voicechat-neoforge-1.21.1-2.6.21.jar	85b39efaab7f9b8aabd78d8a5eb80bd6964c4a3f737f6e1327d7864726e4ad1319ce51f121fb6fe2be5b3b761c51af2591b66348c4404610dc03fc458a8ea007	sha512	https://cdn.modrinth.com/data/9eGKb6K1/versions/dbzBkplC/voicechat-neoforge-1.21.1-2.6.21.jar	both
+mod	sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar	a8cd69cbfd5c4022a44a61087d95c77c1ba2688e8e269fdbb5eab771c6834171ae5b6fb2c5cb5f38d23b52c636d0a1a28755337098035babcbeafaee21ce00cd	sha512	https://cdn.modrinth.com/data/AANobbMI/versions/5EEI3Guz/sodium-neoforge-0.8.13-beta.1%2Bmc1.21.1.jar	client
+mod	sounds-2.4.22+lts+1.21.1-neoforge.jar	0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb013040bb2a02a941cf19b2b282385c6a5305695a4de3534627c645f053	sha512	https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar	client
+mod	yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar	583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48	sha512	https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar	both
+
+ban	wurst	чит-клиент
+ban	meteor-client	чит-клиент
+ban	meteorclient	чит-клиент
+ban	impact-client	чит-клиент
+ban	aristois	чит-клиент
+ban	liquidbounce	чит-клиент
+ban	rusherhack	чит-клиент
+ban	future-client	чит-клиент
+ban	inertia-client	чит-клиент
+ban	sigma-client	чит-клиент
+ban	konas	чит-клиент
+ban	baritone	автопилот
+ban	automatone	автопилот
+ban	xray	просвечивание блоков
+ban	x-ray	просвечивание блоков
+ban	xraymod	просвечивание блоков
+ban	orefinder	поиск руды сквозь блоки
+ban	seed-cracker	вычисление сида мира
+ban	seedcracker	вычисление сида мира
+ban	killaura	автоатака
+ban	aimbot	автоприцел
+ban	autoclicker	автокликер
+ban	reach-hack	увеличенная дальность

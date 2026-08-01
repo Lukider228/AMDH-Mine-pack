@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "ac0bb6a6660040c6f1990a17176a8a62937e34fd74a310eb574b345a23257b33"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "ff8c6cc41786f734080dfa83cc31431b86c77b213221b6fece6e76a5470800ed"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "d25b770e7182041b8e94010a3cc39e0911a3d862dc860bffcb9d58c90f106b42"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c9f5811e9b12ef54fe3bca7ec48f4d3a792b74a6d58c50c8a00194af6dfe5fae"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "046e7a431340b387dcf11a380a4543bbb18710fe628ad824abe22d40ab50b79e"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "8a8534c12082f49dda03637421d933ee52f7f09ce7e77df83aa3ebb546fa0010"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "36f48fcf3565488130a3fb2417688cce6b77461c9beec468be43c9deea5519d3"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "7c436acc5f0e7a046e5b5cee5afa050e6de41b524bbc91ded6212989faa794f3"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "ad53b6b8bddfc161c845551df3352f250f94f2f0b6f3f4e0b82310e7052868fd"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "0b9254a90d65559c886b25c0bad03b7e3f3bc21186b533115e62600e86f2a626"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "ed77efd1e63eafec6bbeea6e53339226f62569c203144efcb7d05c406fdbcf0a"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a0287d88a8e5bff420878c3f3c6cb25caf99a15f7e1b5b6752c434a7c0acbed5"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "d77ae0d6e81bbef57001dfff91cfc66fc5d007b59a8d2b9ae028adfdffeec349"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7a5df528ac1fec3b7d43a0f756e53bdd6447a2f04e49763e8ad9ad96e0b022c3"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c51fc43b27fc299bf445ffc61eb9702fb4759b38fc023ee0a4d67da4a6c183ec"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "faad6c4a2e5955db7681cdcbae7f7853e965c7c4e0ccf02cb21b1f72c176ac8e"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "38b151f3a919dd52bf0cd98d0ea768243c23335f2ac6e312c12bc0ae837a2af5"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "c93f551ebf3a0179c3364544a141c4a4940cc240e5e15ccbc86a1487d06af978"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "b2e5137e4b2b398f73162503a7b0221401f1afb80a3642e95609d81407fc9ed2"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "fa1acf7cc403745c2bfa764c347ffe073658f018e4183677c56e8a5d9eda1bb7"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d5b467529420c5cba775ab80fd8805ee826c63b276ab666d4ed19a0dda8329ce"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "8f18f27f76373f735011ed2923b03b21f39e165ea3a7294810444a9e1474285c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
+metafile = true
