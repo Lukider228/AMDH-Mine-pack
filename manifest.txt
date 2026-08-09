@@ -1,6 +1,6 @@
 # Манифест сборки AMDH-Mine. Генерируется scripts/pack-build.py.
 pack	AMDH-Mine
-version	1.0.2
+version	1.0.3
 minecraft	1.21.1
 neoforge	21.1.244
 
@@ -9,7 +9,6 @@ mod	chat_heads-0.15.3-neoforge-1.21.jar	b05c8edeb6cda61e9aef7a7ae29574bdb487e158
 mod	chatanimation-neoforge-1.3.1+mc1.21.jar	8f9d9d9800bb028897333754b7eacb49d64fb41ccb85e308cc38de5c74bbd9572fe12ce2f5751e85432a5d219c88e057ae87d7b2301a6435fc84bbb1921e125a	sha512	https://cdn.modrinth.com/data/DnNYdJsx/versions/wC0uTsko/chatanimation-neoforge-1.3.1%2Bmc1.21.jar	client
 mod	cloth-config-15.0.140-neoforge.jar	aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d	sha512	https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar	both
 mod	entityculling-neoforge-1.10.5-mc1.21.1.jar	0c22502b84b13d8ac6daffe14ac77e7306b5b7a48f5cd9b3950d9e1d60b3786104aa035fbfdb208b1c9a75ad0e356301a774da32edc3f71cb3a53e2d28fd39e6	sha512	https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar	client
-mod	Essential_1-4-1-1_neoforge_1-21-1.jar	bef6c28584632783b204b38bc5d9cb594e5f5b0c59cd3a08c92fc8ebbb5f542cef310717c368149305a29271b4f269eb82dd50ef9ed00cc66f37e6866958fa38	sha512	https://cdn.modrinth.com/data/k2ZPuTBm/versions/NbXyFjGP/Essential_1-4-1-1_neoforge_1-21-1.jar	client
 mod	ferritecore-7.0.3-neoforge.jar	19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417	sha512	https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar	both
 mod	InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar	521296cc7e4fa48e06eb0c00d430968c7b879946db5b02e632cc724672759ac152e11bd9d320bd09f7418edd6fe4ece521a1a2cac49d7f5687519c69a0bcbf12	sha512	https://cdn.modrinth.com/data/O7RBXm3n/versions/vjuNnHLv/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar	client
 mod	InvMove-0.9.3+1.21.1-NeoForge.jar	54daa1d39fc0319354f54c2e75b1261468e2f0d0bf36ec39a03921dbe07010cc07c73a9e3fdf6e803ce7cb66fe1df3c5a9ba209ec615bb8678163e378d4a7aa5	sha512	https://cdn.modrinth.com/data/REfW2AEX/versions/C7ePwvWW/InvMove-0.9.3%2B1.21.1-NeoForge.jar	client
