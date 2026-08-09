@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1b0d73dab03fa3b432542ad65dc94bba4aa3b41e8f8c1cb452276f616aeb09c5"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "6d49e453fead55672e5acdbcdf2627f226f08500f86360f15084f287ff8184a5"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ac0bb6a6660040c6f1990a17176a8a62937e34fd74a310eb574b345a23257b33"
 metafile = true
