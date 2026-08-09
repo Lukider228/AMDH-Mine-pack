@@ -28,6 +28,8 @@ mod	voicechat-neoforge-1.21.1-2.6.21.jar	85b39efaab7f9b8aabd78d8a5eb80bd6964c4a3
 mod	sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar	a8cd69cbfd5c4022a44a61087d95c77c1ba2688e8e269fdbb5eab771c6834171ae5b6fb2c5cb5f38d23b52c636d0a1a28755337098035babcbeafaee21ce00cd	sha512	https://cdn.modrinth.com/data/AANobbMI/versions/5EEI3Guz/sodium-neoforge-0.8.13-beta.1%2Bmc1.21.1.jar	client
 mod	sounds-2.4.22+lts+1.21.1-neoforge.jar	0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb013040bb2a02a941cf19b2b282385c6a5305695a4de3534627c645f053	sha512	https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar	client
 mod	yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar	583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48	sha512	https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar	both
+server	AMDH-Mine	amdh-mine.dedyn.io	direct
+server	AMDH-Mine (через туннель)	stammer-tavern.tun.ply.gg	tunnel
 
 ban	wurst	чит-клиент
 ban	meteor-client	чит-клиент
