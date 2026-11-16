@@ -1,8 +1,8 @@
 # Манифест сборки AMDH-Mine. Генерируется scripts/pack-build.py.
 pack	AMDH-Mine
-version	1.0.4
+version	1.0.5
 minecraft	1.21.1
-neoforge	21.1.244
+neoforge	21.1.265
 
 mod	appleskin-neoforge-mc1.21-3.0.9.jar	f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937	sha512	https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar	both
 mod	BetterPingDisplay-1.21.1-1.1.jar	301362230f1e66a6725eb20fae106435f2d9561df631a54091956b052f9a2111a230b238dbeb0ae58a5bfa261be43474ab40315e50eebeeacef5a592e2c3bfbb	sha512	https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar	client
@@ -28,8 +28,6 @@ mod	voicechat-neoforge-1.21.1-2.6.21.jar	85b39efaab7f9b8aabd78d8a5eb80bd6964c4a3
 mod	sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar	a8cd69cbfd5c4022a44a61087d95c77c1ba2688e8e269fdbb5eab771c6834171ae5b6fb2c5cb5f38d23b52c636d0a1a28755337098035babcbeafaee21ce00cd	sha512	https://cdn.modrinth.com/data/AANobbMI/versions/5EEI3Guz/sodium-neoforge-0.8.13-beta.1%2Bmc1.21.1.jar	client
 mod	sounds-2.4.22+lts+1.21.1-neoforge.jar	0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb013040bb2a02a941cf19b2b282385c6a5305695a4de3534627c645f053	sha512	https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar	client
 mod	yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar	583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48	sha512	https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar	both
-server	AMDH-Mine	amdh-mine.dedyn.io	direct
-server	AMDH-Mine (через туннель)	stammer-tavern.tun.ply.gg	tunnel
 server	AMDH-Mine (Aternos)	AMDH-Mine.aternos.me:29877	tunnel
 
 ban	wurst	чит-клиент
