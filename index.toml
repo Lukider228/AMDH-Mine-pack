@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/amdh-rus.pw.toml"
-hash = "5cd0c0a9ecdfe31553ee539fd607f2a3331d36be296e150646d5d012d0c14e97"
+hash = "fd40c1d1773ba01b6e52e460f2af995a1364213b6760df6ded6dcc21237afa25"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 # Манифест сборки AMDH-Mine. Генерируется scripts/pack-build.py.
 pack	AMDH-Mine
-version	1.0.8
+version	1.0.9
 minecraft	1.21.1
 neoforge	21.1.265
 
@@ -29,7 +29,7 @@ mod	sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar	a8cd69cbfd5c4022a44a61087d95c77c1
 mod	sounds-2.4.22+lts+1.21.1-neoforge.jar	0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb013040bb2a02a941cf19b2b282385c6a5305695a4de3534627c645f053	sha512	https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar	client
 mod	yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar	583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48	sha512	https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar	both
 mod	LocatorBar-neoforge-1.2.4+1.21.1.jar	e8230a0948cd351a34a60177453d8ca714d78c7b52a8771434e6190e63806c67ae935a5e75049cf9db1f405d4112d4b433d1b5b0562ab0d2a0ce09809caac8d8	sha512	https://cdn.modrinth.com/data/BD7N7OcY/versions/T99P6QRt/LocatorBar-neoforge-1.2.4%2B1.21.1.jar	both
-mod	amdh-rus-1.0.2.jar	e7819bd234606bb42f56094398fe80994130828fb8818216f6dafe8dc2f3a43e3431df0358248ca49f4640124b77eab1a5fb4b2554b720d5c0357703661b9bcd	sha512	https://lukider228.github.io/AMDH-Mine-pack/files/amdh-rus-1.0.2.jar	client
+mod	amdh-rus-1.0.3.jar	cc48a50d2e7256db500d99153596da3499ffe6811149292acf5e29563bf6e3dbf150ec4f985976e972b524c3cc54b381571767e33b12ac3904cce8da3e4524cf	sha512	https://lukider228.github.io/AMDH-Mine-pack/files/amdh-rus-1.0.3.jar	client
 server	AMDH-Mine (Aternos)	AMDH-Mine.aternos.me:29877	tunnel
 config	inventoryprofilesnext/inventoryprofiles.json	AutoRefillSettings.auto_refill_enable_indicator_icons.value	false	once
 
