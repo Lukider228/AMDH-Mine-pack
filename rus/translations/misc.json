@@ -1,0 +1,97 @@
+{
+  "notenoughanimations": {
+    "text.nea.tab.lantern": "Фонари",
+    "text.nea.line.rotationAngle": "Угол поворота",
+    "text.nea.holdUpItemsMode.CONFIG_INVERTED": "Не из списка",
+    "text.nea.enable.clampCrossbowAnimations": "Ограничить анимации арбалета",
+    "text.nea.enable.clampCrossbowAnimations.tooltip": "Ограничивает углы анимаций",
+    "text.nea.enable.customBowRotationLock": "Поворот тела с луком",
+    "text.nea.enable.customBowRotationLock.tooltip": "Разворачивает тело под углом при своей анимации лука",
+    "text.nea.animateLanterns": "Анимировать фонари",
+    "text.nea.animateLanterns.tooltip": "Фонарь в руке раскачивается",
+    "text.nea.enable.applyRotationLockToEveryone": "Блокировка поворота для всех",
+    "text.nea.enable.applyRotationLockToEveryone.tooltip": "Применять блокировку поворота ко всем игрокам, а не только к себе",
+    "text.nea.maxNormalAngle": "Обычный угол",
+    "text.nea.maxNormalAngle.tooltip": "Обычный угол блокировки поворота. Работает только в режиме None.",
+    "text.nea.maxBlockingAngle": "Угол при блоке",
+    "text.nea.maxBlockingAngle.tooltip": "Угол блокировки поворота, когда закрываешься щитом. Работает только в режиме None."
+  },
+  "libipn": {
+    "modmenu.descriptionTranslation.libipn": "Библиотека интерфейса Inventory Profiles Next",
+    "libipn.common.gui.config.on": "вкл",
+    "libipn.common.gui.config.off": "выкл",
+    "libipn.common.gui.config.colorpicker.alpha": "Прозрачность",
+    "libipn.common.gui.config.colorpicker.red": "Красный",
+    "libipn.common.gui.config.colorpicker.green": "Зелёный",
+    "libipn.common.gui.config.colorpicker.blue": "Синий",
+    "libipn.common.gui.config.color_picker_dialog": "Выбор цвета",
+    "libipn.common.gui.config.settings_screen.search-box": "Поиск",
+    "libipn.common.gui.config.description.settings_screen.search-box": "Показывает только опции, подходящие под запрос.",
+    "libipn.common.gui.config.advanced_keybind_settings.alt_key_label": "Вариант %d",
+    "libipn.common.gui.config.advanced_keybind_settings.alt_key_description": "Можно добавить дополнительную клавишу для той же функции",
+    "libipn.common.gui.config.advanced_keybind_settings.alt_key_title": "Дополнительные клавиши."
+  },
+  "resourcify": {
+    "resourcify.updates.wait_button": "Подождать",
+    "resourcify.updates.cancel_close_button": "Отменить обновления и закрыть",
+    "resourcify.manual_download.title": "Resourcify не может скачать этот проект автоматически.",
+    "resourcify.manual_download.description": "Нажми кнопку ниже, чтобы открыть страницу версии в браузере.\nКогда скачаешь проект в папку загрузок, Resourcify сам его установит.\n\nСейчас отслеживается папка: \"%s\"",
+    "resourcify.manual_download.open": "Открыть страницу версии",
+    "resourcify.manual_download.cancel": "Отмена",
+    "resourcify.config.gui-scale.title": "Масштаб интерфейса",
+    "resourcify.config.gui-scale.description": "Масштаб интерфейса в окнах поиска и проекта Resourcify, можно ввести число.",
+    "resourcify.config.gui-scale.auto": "авто",
+    "resourcify.config.disable-gifs.title": "Отключить GIF-анимации",
+    "resourcify.config.disable-gifs.description": "Отключает показ GIF в Resourcify, это может уменьшить подтормаживания при загрузке картинок.",
+    "resourcify.categories.traditional": "Классика"
+  },
+  "appleskin": {
+    "appleskin.configuration.showFoodValuesInTooltip.tooltip": "Если включено, при зажатом SHIFT в подсказке еды показываются голод и насыщение",
+    "appleskin.configuration.showFoodValuesInTooltipAlways.tooltip": "Если включено, голод и насыщение показываются в подсказке еды всегда, без SHIFT",
+    "appleskin.configuration.showFoodValuesHudOverlay.tooltip": "Если включено, показывает, сколько голода (и насыщения, если включено showSaturationHudOverlay) восстановит еда в руке",
+    "appleskin.configuration.showFoodValuesHudOverlayWhenOffhand.tooltip": "Если включено, подсказки голода, насыщения и здоровья работают и для еды во второй руке",
+    "appleskin.configuration.showFoodHealthHudOverlay.tooltip": "Если включено, на полоске здоровья показывается, сколько примерно восстановит еда",
+    "appleskin.configuration.showFoodExhaustionHudUnderlay.tooltip": "Если включено, истощение показывается полоской позади шкалы голода",
+    "appleskin.configuration.showSaturationHudOverlay.tooltip": "Если включено, текущее насыщение показывается поверх шкалы голода",
+    "appleskin.configuration.showFoodStatsInDebugOverlay.tooltip": "Если включено, голод, насыщение и истощение показываются на экране отладки",
+    "appleskin.configuration.showVanillaAnimationsOverlay.tooltip": "Если включено, подсказки здоровья и голода трясутся вместе с обычными значками игры",
+    "appleskin.configuration.maxHudOverlayFlashAlpha.tooltip": "Непрозрачность мигающих значков в самый яркий момент (1.0 = полностью видно, 0.0 = полностью прозрачно)"
+  },
+  "sounds": {
+    "sounds.config.option.enableEnderpearlVariety": "Разные звуки жемчуга Края",
+    "sounds.config.swordSwoosh.option": "Свист меча",
+    "sounds.config.swordSwoosh.option.description": "Звук, который играет при ударе мечом.",
+    "sounds.config.iceStress.option": "Треск льда",
+    "sounds.config.iceStress.option.description": "Звук, который играет при прыжке на лёд. Взят из мода Icebreak для WinterJam 2024.",
+    "sounds.config.option.enableVerboseSoundTypeLogging": "Подробный лог типов звуков",
+    "sounds.config.option.description.enableVerboseSoundTypeLogging": "Писать ли в консоль подробности о звуках блоков? Полезно для отладки.",
+    "sounds.subtitle.sword_swoosh": "Взмах меча"
+  },
+  "entityculling": {
+    "key.category.minecraft.text.entityculling.title": "EntityCulling",
+    "text.entityculling.blockEntityFrustumCulling": "Отсечение блоков-сущностей по обзору",
+    "text.entityculling.blockEntityFrustumCulling.tooltip": "Если включено, блоки-сущности вне поля зрения камеры не обрабатываются. Может поднять производительность, если загрузчик модов или другой мод ещё этого не делает.",
+    "text.entityculling.forceDisplayCulling": "Отсекать сущности-дисплеи",
+    "text.entityculling.forceDisplayCulling.tooltip": "Если включено, сущностям-дисплеям без размеров назначается стандартный размер для отсечения. Помогает на картах и серверах, где дисплеи настроены неправильно, но может давать визуальные глюки.",
+    "text.entityculling.solidLeaves": "Сплошная листва",
+    "text.entityculling.solidLeaves.tooltip": "Если включено, листва считается сплошной при отсечении. Помогает в лесах, но может давать визуальные глюки. Полезно, если прозрачная листва выключена или стоит пак с пышной листвой."
+  },
+  "iris": {
+    "iris.shaders.debug.restartNoDebug": "Отладка шейдеров включена, но отладка OpenGL на NeoForge не поддерживается.",
+    "iris.load.failure.shader": "Шейдерпак не загрузился! Сообщи об ошибке автору шейдеров. ",
+    "iris.load.failure.generic": "У Iris не получилось загрузить шейдер, сообщи об этом разработчикам Iris. ",
+    "iris.keybind.wireframe": "Каркасный режим (только одиночная игра)",
+    "options.iris.colorSpace": "Цветовое пространство",
+    "options.iris.colorSpace.sodium_tooltip": "В какое цветовое пространство переводить картинку. Работает поверх шейдерпаков. Если не уверен, выбирай SRGB."
+  },
+  "chat_heads": {
+    "text.autoconfig.chat_heads.option.threeDeeNess": "Объёмность",
+    "text.autoconfig.chat_heads.option.threeDeeNess.@Tooltip": "Рисует слой шапки чуть крупнее,\nчтобы головы в чате выглядели менее плоскими.\nМожет вызывать проблемы с отрисовкой.",
+    "text.autoconfig.chat_heads.option.detectNameAliases": "Распознавать псевдонимы",
+    "text.autoconfig.chat_heads.option.detectNameAliases.@Tooltip": "Ищет ответы на команду /realname на серверах\nс EssentialsX и сам добавляет псевдонимы.",
+    "text.autoconfig.chat_heads.option.drawShadow": "Рисовать тень"
+  },
+  "nochatreports": {
+    "option.NoChatReports.showReloadButton": "Показывать кнопку перезагрузки"
+  }
+}

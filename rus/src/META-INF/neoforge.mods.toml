@@ -1,0 +1,122 @@
+# Русификатор сборки AMDH-Mine: только языковые файлы, без кода.
+modLoader = "lowcodefml"
+loaderVersion = "[4,)"
+license = "Переводы: CC0. Исходные строки модов принадлежат их авторам."
+
+[[mods]]
+modId = "amdh_rus"
+version = "1.0.1"
+displayName = "AMDH-Mine: русификатор"
+authors = "Lukider228"
+description = '''
+Дописывает недостающий русский перевод модов сборки AMDH-Mine.
+'''
+
+# Грузиться после переводимых модов: из одинаковых ключей побеждает тот
+# пакет ресурсов, что загружен позже. Без этого английские строки внутри
+# их собственных ru_ru.json перекрывали бы перевод.
+
+[[dependencies.amdh_rus]]
+modId = "appleskin"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "chat_heads"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "entityculling"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "inventoryprofilesnext"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "invmove"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "iris"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "lambdynlights"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "libipn"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "modernfix"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "nochatreports"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "notenoughanimations"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "resourcify"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "sodium"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "sounds"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "voicechat"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
