@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/amdh-rus.pw.toml"
-hash = "8f4bc4af20e59b7dc534008add752f86907bf1499874342166bf38c8b7ea47f6"
+hash = "5cd0c0a9ecdfe31553ee539fd607f2a3331d36be296e150646d5d012d0c14e97"
 metafile = true
 
 [[files]]
@@ -78,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "7a5df528ac1fec3b7d43a0f756e53bdd6447a2f04e49763e8ad9ad96e0b022c3"
+metafile = true
+
+[[files]]
+file = "mods/locator-bar.pw.toml"
+hash = "53035f9c98c35940f7c91857f96631a42efba1ea57dcb6d0cd7a76418844a872"
 metafile = true
 
 [[files]]

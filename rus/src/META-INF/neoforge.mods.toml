@@ -5,7 +5,7 @@ license = "Переводы: CC0. Исходные строки модов пр�
 
 [[mods]]
 modId = "amdh_rus"
-version = "1.0.1"
+version = "1.0.2"
 displayName = "AMDH-Mine: русификатор"
 authors = "Lukider228"
 description = '''
@@ -116,6 +116,13 @@ side = "CLIENT"
 
 [[dependencies.amdh_rus]]
 modId = "voicechat"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "locatorbar"
 type = "optional"
 versionRange = "*"
 ordering = "AFTER"
