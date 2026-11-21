@@ -5,7 +5,7 @@ license = "Переводы: CC0. Исходные строки модов пр�
 
 [[mods]]
 modId = "amdh_rus"
-version = "1.0.4"
+version = "1.0.5"
 displayName = "AMDH-Mine: русификатор"
 authors = "Lukider228"
 description = '''
@@ -130,6 +130,20 @@ side = "CLIENT"
 
 [[dependencies.amdh_rus]]
 modId = "bobby"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "chesttracker"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.amdh_rus]]
+modId = "ok_zoomer"
 type = "optional"
 versionRange = "*"
 ordering = "AFTER"

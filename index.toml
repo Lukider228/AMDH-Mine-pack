@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/amdh-rus.pw.toml"
-hash = "e64f00ca80bd3c2c59157283cd72305550128692283e683de02eea015626d1d4"
+hash = "8bcfc2c82b14e64d8cb6b8393dd37e02dc2cc7e634ef99f3c6335912d750a119"
 metafile = true
 
 [[files]]
@@ -33,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "d25b770e7182041b8e94010a3cc39e0911a3d862dc860bffcb9d58c90f106b42"
+metafile = true
+
+[[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "1027f46f5d45197754740ea5d38bb9ef0ac5c984521d02e5b66d584045f2c2b8"
 metafile = true
 
 [[files]]
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c93f551ebf3a0179c3364544a141c4a4940cc240e5e15ccbc86a1487d06af978"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "3f94403efb94bdaa2666fa172b24d64c04aeafeef28d00cc7121777eed22cfa3"
 metafile = true
 
 [[files]]

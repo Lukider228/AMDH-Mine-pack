@@ -1,0 +1,20 @@
+{
+  "chesttracker.gui.editMemoryBank.integrity.blockBreak.tooltip": "Удалять ли запомненное, когда блок на этом месте сломан.",
+  "chesttracker.gui.editMemoryBank.integrity.preserveNamed.tooltip": "Не удалять по сроку давности запомненные контейнеры с названием.",
+  "chesttracker.gui.editMemoryBank.integrity.periodicCheck.tooltip": "Время от времени проверять ближние контейнеры: не исчезли ли они, например если их сломал кто-то другой.",
+  "chesttracker.gui.editMemoryBank.integrity.memoryLifetime.tooltip": "Через сколько после последнего открытия контейнер считается устаревшим и удаляется из памяти.",
+  "chesttracker.gui.editMemoryBank.search.itemListRange.tooltip": "На каком максимальном расстоянии (в блоках) список предметов показывает запомненное.",
+  "chesttracker.gui.editMemoryBank.search.stackMergeMode.tooltip": "Как объединять и показывать в списке одинаковые предметы из разных контейнеров.",
+  "chesttracker.config.gui": "Интерфейс",
+  "chesttracker.config.gui.autofocusSearchBar.description": "Сразу ставить курсор в поиск при открытии окна.",
+  "chesttracker.config.gui.hideMemoryBankIds.description": "Скрывать ID банка памяти в окнах настройки, например чтобы не светить IP сервера.",
+  "chesttracker.config.gui.itemListTextScale.description": "Масштаб текста в списке предметов. Полезно, если количество предметов налезает на соседние ячейки.",
+  "chesttracker.config.inventoryButton.alwaysShowExtra": "Всегда показывать доп. кнопки",
+  "chesttracker.config.rendering.displayContainerNames.description": "Показывать ли названия над контейнерами в мире. Для отдельного банка памяти можно переопределить в разделе «Совместимость».",
+  "chesttracker.config.storage.storageBackend.description.json": "Хранит банки памяти в JSON-файлах в папке игры «chesttracker». Читаются глазами, но занимают больше места.",
+  "chesttracker.config.storage.storageBackend.description.nbt": "Хранит банки памяти в NBT-файлах в папке игры «chesttracker». Компактнее, но без отдельной программы их не прочитать. Рекомендуется.",
+  "chesttracker.config.storage.storageBackend.description.memoryLossOnReboot": "Внимание: банки памяти, хранящиеся так, пропадают после закрытия игры.",
+  "chesttracker.config.compatibility.wthit.description": "Подсветка из текущего банка памяти в WTHIT. Остальные настройки в менеджере плагинов WTHIT.",
+  "chesttracker.config.compatibility.litematica.countEnderChestMaterials.description": "Учитывать ли предметы из эндер-сундука при подсчёте материалов в Litematica.",
+  "chesttracker.config.compatibility.litematica.countNearbyMaterials.description1": "Учитывать ли предметы из ближних контейнеров при подсчёте материалов в Litematica."
+}
