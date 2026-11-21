@@ -1,0 +1,12 @@
+{
+  "class_names": [
+    "DEFAULT"
+  ],
+  "__comment": "AMDH-Mine: кнопка над правым верхним углом окна, а не внутри, где кнопки сортировки IPN.",
+  "position": {
+    "x_align": "right",
+    "x_offset": 14,
+    "y_align": "top",
+    "y_offset": -11
+  }
+}
