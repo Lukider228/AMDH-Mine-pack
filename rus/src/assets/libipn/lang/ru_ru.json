@@ -11,7 +11,7 @@
   "libipn.common.gui.config.allow_extra_keys": "Разрешить дополнительные клавиши",
   "libipn.common.gui.config.order_sensitive": "Порядок чувствительности",
   "libipn.common.gui.config.modifier_key": "Ctrl/Alt/Shift",
-  "libipn.common.gui.config.keybind_settings_tips": "- Лкм — настроить.\n- Пкм — вернуть к настройкам по умолчанию.",
+  "libipn.common.gui.config.keybind_settings_tips": "- ЛКМ: настроить.\n- ПКМ: вернуть по умолчанию.",
   "libipn.common.enum.key_action.press": "Нажать",
   "libipn.common.enum.key_action.release": "Отпустить",
   "libipn.common.enum.key_action.both": "Нажать/Отпустить",

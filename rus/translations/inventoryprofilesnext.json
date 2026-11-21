@@ -40,7 +40,6 @@
   "inventoryprofiles.config.description.profile_8": "Горячая клавиша для перехода к быстрому профилю 8.\nТы можешь настроить Быстрые профили в странице конфигурации «Правка профилей».",
   "inventoryprofiles.config.description.profile_9": "Горячая клавиша для перехода к быстрому профилю 9.\nТы можешь настроить Быстрые профили в странице конфигурации «Правка профилей».",
   "inventoryprofiles.config.description.profile_10": "Горячая клавиша для перехода к быстрому профилю 10.\nТы можешь настроить Быстрые профили в странице конфигурации «Правка профилей».",
-
   "inventoryprofiles.config.category.villager_trading": "Торговля с жителями",
   "inventoryprofiles.config.description.move_focus_mach_modifier": "Зажми эту клавишу, чтобы переместить все предметы того же типа, что под курсором или в курсоре.\nВНИМАНИЕ: переместятся все предметы этого типа, даже если они уже есть с другой стороны.",
   "inventoryprofiles.config.name.highlight_foused_items": "Подсветка предметов",
@@ -194,5 +193,8 @@
   "inventoryprofiles.tooltip.set_global_bookmark2": "Добавить глобальную закладку в группу 3.",
   "inventoryprofiles.gui.editor.name.screen.disable_fast_swipe": "Отключить быстрый свайп",
   "inventoryprofiles.gui.editor.description.screen.disable_fast_swipe": "Если включено, перемещение и выброс свайпом используют более медленный, но надёжный способ.\nВНИМАНИЕ: если свайп плохо работает в одних интерфейсах, но не во всех, попробуй включить.",
-  "inventoryprofiles.profiles.created_new_saved": "Создан новый профиль «Сохранённый»..."
+  "inventoryprofiles.profiles.created_new_saved": "Создан новый профиль «Сохранённый»...",
+  "inventoryprofiles.common.gui.config.keybind_settings_tips": "- ЛКМ: настроить.\n- ПКМ: вернуть по умолчанию.",
+  "inventoryprofiles.config.description.enable_profiles": "Включает профили.\nПрофиль это набор инвентаря, между профилями можно переключаться одной клавишей.\n\nКак настроить профили, смотри на странице \"Правка профилей\".",
+  "inventoryprofiles.config.description.locked_slots_disable_quick_move_throw": "В окне инвентаря запертые слоты не реагируют на:\n- Shift+клик.\n- Ctrl+Q.\n- Shift+клик с протягиванием.\n- Ctrl+Q с протягиванием."
 }

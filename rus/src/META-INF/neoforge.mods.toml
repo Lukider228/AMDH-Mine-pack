@@ -5,7 +5,7 @@ license = "Переводы: CC0. Исходные строки модов пр�
 
 [[mods]]
 modId = "amdh_rus"
-version = "1.0.6"
+version = "1.0.7"
 displayName = "AMDH-Mine: русификатор"
 authors = "Lukider228"
 description = '''
