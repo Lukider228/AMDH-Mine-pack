@@ -144,3 +144,13 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
 metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "0ec4d3a3050d86900c7197c7157eec42aaef67f3e0a6290ca2a7e854191f8890"
+metafile = true
+
+[[files]]
+file = "mods/watut.pw.toml"
+hash = "2022245af5e71898667235a5874d97e654374e659af7a65b4e1dbf8a4d469fc3"
+metafile = true

@@ -1,6 +1,6 @@
 # Манифест сборки AMDH-Mine. Генерируется scripts/pack-build.py.
 pack	AMDH-Mine
-version	1.0.12
+version	1.0.13
 minecraft	1.21.1
 neoforge	21.1.265
 
@@ -34,10 +34,14 @@ mod	parovozing-1.3.0.jar	545465c723e252141cc52a6b2023fd5e5794ee431c6a2d555bd6c28
 mod	chesttracker-2.6.8+1.21.1-neoforge.jar	ba8cfc642d53de063725cbd84d2dd27804772b7467dbef982c1a859ee76dca6f2000915abb4f5bf061342d45ce34d41142258e3d8c1552c0a242adbcbdbbddf7	sha512	https://cdn.modrinth.com/data/tKgBLOU4/versions/CGOVSYGP/chesttracker-2.6.8%2B1.21.1-neoforge.jar	client
 mod	ok_zoomer-neo-10.0.0-beta.13.jar	a7abed243ef8f535dbd24dc6e8a211cc42d28ff2c72322f04dc289e2de6fde4ca00ee2dd3943fad7aa24dc3af497b379c05e10f827ed24a737a73bdb1b142c6e	sha512	https://cdn.modrinth.com/data/aXf2OSFU/versions/AkPuuAgJ/ok_zoomer-neo-10.0.0-beta.13.jar	client
 mod	amdh-rus-1.0.6.jar	2d853878c10672070a8e31d0703a7513760309b8504d170124fab88c02426bba276ddbd552dc16461b0b6e638bf11c567251b3799789cee06d57f019dcdb9b86	sha512	https://lukider228.github.io/AMDH-Mine-pack/files/amdh-rus-1.0.6.jar	client
+mod	coroutil-neoforge-1.21.0-1.3.8.jar	daae9e37acddedccad05e3f8e565f8b4c237f25b2462e043428f88b32fc27e4bc3a00955ed7426a7d7f93f068b4e96b37e2e42d121d40fdf94a31b6c2b7440e0	sha512	https://cdn.modrinth.com/data/rLLJ1OZM/versions/H2YXCYUY/coroutil-neoforge-1.21.0-1.3.8.jar	both
+mod	watut-neoforge-1.21.0-1.2.7.jar	b96bd6146344a86e4ad45fd4c274a15f0e146bcc13747940f8b9f0ea21c8ea8bca4d005444f2bf8082f29ec7ad1ce03507764ddfbdda64ac9284d8ac400b44c5	sha512	https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar	both
 server	AMDH-Mine (Aternos)	AMDH-Mine.aternos.me:29877	tunnel
 config	inventoryprofilesnext/inventoryprofiles.json	AutoRefillSettings.auto_refill_enable_indicator_icons.value	false	once
 config	options.txt	renderDistance	16	once
 config	options.txt	key_key.saveToolbarActivator	key.keyboard.unknown	once
+config	watut-client.toml	general.screenTypingText	" печатает"	once
+config	watut-client.toml	general.screenTypingMultiplePlayersText	"Несколько человек печатают"	once
 
 ban	wurst	чит-клиент
 ban	meteor-client	чит-клиент
