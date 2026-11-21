@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/amdh-rus.pw.toml"
-hash = "fd40c1d1773ba01b6e52e460f2af995a1364213b6760df6ded6dcc21237afa25"
+hash = "e64f00ca80bd3c2c59157283cd72305550128692283e683de02eea015626d1d4"
 metafile = true
 
 [[files]]
@@ -18,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ac0bb6a6660040c6f1990a17176a8a62937e34fd74a310eb574b345a23257b33"
+metafile = true
+
+[[files]]
+file = "mods/bobby-reneoforged.pw.toml"
+hash = "54dcbb395166c80ec5d3155ac046a5ac3fa5ae9481576d033414d2cc74d4e02d"
 metafile = true
 
 [[files]]

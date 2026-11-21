@@ -1,12 +1,12 @@
 name = "AMDH-Mine"
 author = "Lukider228"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fe94aae57031f04a9fa72337a28ef35268c7cf1f020c94203501dc526ccf7276"
+hash = "2581c1f14b6a82f7612b2868093655ffe7017b6ab67ca33d79b77325b35331f2"
 
 [versions]
 minecraft = "1.21.1"

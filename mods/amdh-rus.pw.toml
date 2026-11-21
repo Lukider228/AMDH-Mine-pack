@@ -1,9 +1,9 @@
-filename = 'amdh-rus-1.0.3.jar'
+filename = 'amdh-rus-1.0.4.jar'
 name = 'AMDH-Mine: русификатор'
 side = 'client'
 
 [download]
-hash = 'cc48a50d2e7256db500d99153596da3499ffe6811149292acf5e29563bf6e3dbf150ec4f985976e972b524c3cc54b381571767e33b12ac3904cce8da3e4524cf'
+hash = 'b2bdd5a1925bad9bcb4ad90ebfbe257918fb3b431375575af876562de81dc09285acd95a3d603abedc3b5a766fafb349548c420f81c413f0b47d2b5759e7af5b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://lukider228.github.io/AMDH-Mine-pack/files/amdh-rus-1.0.3.jar'
+url = 'https://lukider228.github.io/AMDH-Mine-pack/files/amdh-rus-1.0.4.jar'
