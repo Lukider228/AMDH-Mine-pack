@@ -1,6 +1,6 @@
 # Манифест сборки AMDH-Mine. Генерируется scripts/pack-build.py.
 pack	AMDH-Mine
-version	1.0.16
+version	1.0.17
 minecraft	1.21.1
 neoforge	21.1.265
 
@@ -77,12 +77,23 @@ ban-mod	xray	просвечивание блоков
 ban-mod	wurst	чит-клиент
 ban-mod	meteor-client	чит-клиент
 ban-mod	liquidbounce	чит-клиент
+# Freecam без ограничений: с ним видно руду сквозь камень. Freecam (Fair Play), legacyfreecam, разрешён: в нём пролёта сквозь блоки нет.
+# У него те же классы net/xolt/freecam, что у оригинала, поэтому оригинал ловится только по id.
+ban-mod	freecam	пролёт камерой сквозь стены
+ban-mod	zergatulfreecam	пролёт камерой сквозь стены
+ban-mod	freecam_by_jasonzli	пролёт камерой сквозь стены
+ban-mod	smooth_freecam	пролёт камерой сквозь стены
+ban-mod	fpvfreecam	пролёт камерой сквозь стены
 # ban-class: начало пути класса внутри jar, в том числе во вложенных jar
 ban-class	baritone/api/	автопилот
 ban-class	pro/mikey/xray/	просвечивание блоков
 ban-class	net/wurstclient/	чит-клиент
 ban-class	meteordevelopment/meteorclient/	чит-клиент
 ban-class	net/ccbluex/liquidbounce/	чит-клиент
+ban-class	com/zergatul/freecam/	пролёт камерой сквозь стены
+ban-class	com/jasonzli/freecam/	пролёт камерой сквозь стены
+ban-class	org/zerw/net/smoothfreecam/	пролёт камерой сквозь стены
+ban-class	com/kieran/fpvfreecam/	пролёт камерой сквозь стены
 # opaque: блоки, которые в ресурспаке не должны становиться прозрачными или пустыми
 opaque	block/stone
 opaque	block/deepslate
