@@ -70,6 +70,36 @@ ban	aimbot	автоприцел
 ban	autoclicker	автокликер
 ban	reach-hack	увеличенная дальность
 
+# --- Паровозинг 1.4.0: поиск читов по содержимому (старые версии эти строки пропускают) ---
+# ban-mod: id мода из neoforge.mods.toml или fabric.mod.json, ловит переименованные jar
+ban-mod	baritone	автопилот
+ban-mod	xray	просвечивание блоков
+ban-mod	wurst	чит-клиент
+ban-mod	meteor-client	чит-клиент
+ban-mod	liquidbounce	чит-клиент
+# ban-class: начало пути класса внутри jar, в том числе во вложенных jar
+ban-class	baritone/api/	автопилот
+ban-class	pro/mikey/xray/	просвечивание блоков
+ban-class	net/wurstclient/	чит-клиент
+ban-class	meteordevelopment/meteorclient/	чит-клиент
+ban-class	net/ccbluex/liquidbounce/	чит-клиент
+# opaque: блоки, которые в ресурспаке не должны становиться прозрачными или пустыми
+opaque	block/stone
+opaque	block/deepslate
+opaque	block/deepslate_top
+opaque	block/dirt
+opaque	block/netherrack
+opaque	block/granite
+opaque	block/diorite
+opaque	block/andesite
+opaque	block/tuff
+opaque	block/gravel
+opaque	block/sand
+opaque	block/calcite
+opaque	block/basalt_side
+opaque	block/blackstone
+opaque	block/end_stone
+
 # --- Старые версии Паровозинга: новая скачивается как обычный мод, старая убирается ---
 ban	parovozing-1.1	старая версия Паровозинга, новая уже скачана
 ban	parovozing-1.2	старая версия Паровозинга, новая уже скачана
